@@ -18,8 +18,7 @@ makarov_edgar2002@mail.ru | https://github.com/Robby-the-paladin
     
 * [Chipollino](https://github.com/StarikTenger/Chipollino) **[C++]**
 
-    University project made during summer practice. Consists of two parts: the game itself and a level editor for it.
-    My contribution was writing AI architecture, basic mechanics and most of the code for the map editor.
+    Interactive Chipollino converter for a visual study of the theory of automata.
 
 * University Programming **[Scheme, C, C++, go, java, assembly]**
 
